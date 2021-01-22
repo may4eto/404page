@@ -36,13 +36,16 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://github.com/may4eto/404page/blob/master/Screenshot.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo?
+  https://may4eto.github.io/404page/ 
 - What was your experience?
+  Fun little exercise which was easy to do with Bootstrap.
 - What have you learned/improved?
+  Keep exercising responsive layout.
 - Your wisdom? :)
 
 ### Built With
